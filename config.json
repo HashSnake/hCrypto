@@ -1,0 +1,12 @@
+{
+	"ENABLEAP": false,
+	"APIKEYAP": "AB222aFF166325B7b87Eb9aF06C86E57",
+	
+	"ENABLEHC": false,
+	"PWPATHHC": "C:\\Users\\Username\\Desktop\\HashCat\\password.txt",
+	"HSPATHHC": "C:\\Users\\Username\\Desktop\\HashCat\\hashcode.txt",
+	"HCEXEPTH": "C:\\Users\\Username\\Desktop\\HashCat",
+
+	"ENABLESD": true,
+	"SQLINAME": "hdata.db"
+}
